@@ -1,4 +1,4 @@
-Hello! I’m Juan Carlos Cordón, a passionate explorer of emerging technologies and creative problem-solving.
+Hello! I’m Juan Carlos Cordón.
 
 My journey began with a solid foundation in Mathematics, evolved into a deep fascination with Artificial Intelligence and Machine Learning, and is now expanding into Quantum Computing and Data Spaces.
 
