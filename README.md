@@ -19,7 +19,7 @@ I trained a machine learning model to interpret brain signals (EEG) and classify
 
 ---
 
-### ✨ Transfer Learning in Sentiment Analysis
+### ✨ LLMs - Transfer Learning in Sentiment Analysis
 *Project: NLP Fine-Tuning with Pretrained Models (42 Urduliz Bizkaia)*
 
 This project explored how large language models (BERT, DistilBERT) can be fine-tuned to analyze text sentiment with minimal data and resources. Built in **Amazon SageMaker Studio Lab**, it includes hands-on experimentation with tokenization, hyperparameters, and model generalization.
