@@ -39,7 +39,6 @@ Built from the ground up using **pure Python**, this project implements a fully 
 
 A space-themed, body-motion game designed for astronauts in microgravity. Using **pose estimation models** like MMPose, it tracks real-time body movement to recreate constellations and dance patterns. Beyond fun, the game promotes mental wellness, physical activity, and connection with Earth.
 
-Built with Python and ReactJS, this system integrates with existing onboard hardware. Earth-based participants can view the performance and interact in real-time.
 ---
 
 ## 🤝 Let's Connect
