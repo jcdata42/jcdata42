@@ -10,7 +10,7 @@ It all started with a deep love for **mathematics**, which laid the foundation f
 
 ## 🚀 Projects
 
-### 🧠 Decoding Thought with Machine Learning
+### 🧠 Decoding Thought with Machine Learning [Repo](https://github.com/jcdata42/decoding_thought_with_machine-learning_brain_computer_interface)
 *Project: Brain-Computer Interface with EEG signals (42 Urduliz Bizkaia)*
 
 I trained a machine learning model to interpret brain signals (EEG) and classify imagined motor actions (like hand or foot movement). This project required mathematical precision (PCA, matrix transformations), signal processing, and careful pipeline design using Scikit-learn. It was developed in **Google Colab** to promote reproducibility and collaborative learning.
