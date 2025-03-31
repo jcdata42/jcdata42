@@ -2,11 +2,9 @@
 
 Welcome to my GitHub.
 
-My journey weaves together mathematics, storytelling, and machine learning — a path driven by curiosity, built through exploration, and shaped by the desire to make technology more human.
+My journey weaves together mathematics, machine learning and Artificial Intelligence — a path driven by curiosity, built through exploration, and shaped by the desire to make technology more human.
 
 It all started with a deep love for **mathematics**, which laid the foundation for everything I do today. Over time, this evolved into a fascination with how **Artificial Intelligence** can enhance decision-making, augment human abilities, and create meaningful change. Today, I'm exploring the frontiers of **Quantum Computing** and **Data Spaces**, while staying grounded in the power of clear thinking and elegant problem-solving.
-
-I believe that technology becomes powerful when it's understood, shared, and used boldly. That belief has shaped every project I’ve led and every team I’ve worked with. Here’s a glimpse into that journey:
 
 ---
 
